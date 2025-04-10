@@ -19,12 +19,7 @@ Dette prosjektet analyserer vannforbruk i ulike husholdninger, med fokus på for
 - Visualisering i form av søyle- og linjediagrammer
 - Eksport av bearbeidede data til ny Excel-fil
 
-Prosjektet er levert som del av **PY1010 - Grunnleggende programmering** og oppfyller krav om bruk av:
-- Arrays og vektoriserte beregninger
-- If/else-tester og løkker
-- Lese/skrive filer
-- Plotting med matplotlib
-- Egendefinerte funksjoner
+Prosjektet er levert som del av **PY1010 - Grunnleggende programmering**.
 
 ---
 
