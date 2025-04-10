@@ -32,7 +32,7 @@ Prosjektet er levert som del av **PY1010 - Grunnleggende programmering** og oppf
 
 1. Sørg for at følgende er installert:
    - Python 3.x
-   - Pakker: `pandas`, `numpy`, `matplotlib`, `openpyxl`
+   - Pakker: `pandas`, `matplotlib`, `openpyxl`
 
    Installer dem enkelt med:
    ```bash
